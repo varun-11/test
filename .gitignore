@@ -7,3 +7,4 @@
 *.js
 node_modules/
 !app.js
+*.php
