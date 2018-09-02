@@ -2,3 +2,8 @@
 # whatever file or folder we will mention here in this file, git is gonna ignore all these files & folders.
 #whatever we will mention here, it should be in the next line always.
 
+#comment
+
+*.js
+node_modules/
+!app.js
